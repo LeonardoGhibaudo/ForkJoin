@@ -12,3 +12,4 @@ C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\o
 C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\obj\Debug\net8.0\GhibaudoLeonardoForkJoin.pdb
 C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\obj\Debug\net8.0\GhibaudoLeonardoForkJoin.genruntimeconfig.cache
 C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\obj\Debug\net8.0\ref\GhibaudoLeonardoForkJoin.dll
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\obj\Debug\net8.0\GhibaudoLeonardoForkJoin.sourcelink.json

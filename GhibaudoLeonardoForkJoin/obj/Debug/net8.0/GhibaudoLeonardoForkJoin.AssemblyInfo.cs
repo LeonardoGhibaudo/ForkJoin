@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GhibaudoLeonardoForkJoin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6d04cffe6724d791d24c03d38ff849f82355519")]
 [assembly: System.Reflection.AssemblyProductAttribute("GhibaudoLeonardoForkJoin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GhibaudoLeonardoForkJoin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
