@@ -1,0 +1,14 @@
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\bin\Debug\net8.0\GhibaudoLeonardoForkJoin.exe
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\bin\Debug\net8.0\GhibaudoLeonardoForkJoin.deps.json
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\bin\Debug\net8.0\GhibaudoLeonardoForkJoin.runtimeconfig.json
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\bin\Debug\net8.0\GhibaudoLeonardoForkJoin.dll
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\bin\Debug\net8.0\GhibaudoLeonardoForkJoin.pdb
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\obj\Debug\net8.0\GhibaudoLeonardoForkJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\obj\Debug\net8.0\GhibaudoLeonardoForkJoin.AssemblyInfoInputs.cache
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\obj\Debug\net8.0\GhibaudoLeonardoForkJoin.AssemblyInfo.cs
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\obj\Debug\net8.0\GhibaudoLeonardoForkJoin.csproj.CoreCompileInputs.cache
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\obj\Debug\net8.0\GhibaudoLeonardoForkJoin.dll
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\obj\Debug\net8.0\refint\GhibaudoLeonardoForkJoin.dll
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\obj\Debug\net8.0\GhibaudoLeonardoForkJoin.pdb
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\obj\Debug\net8.0\GhibaudoLeonardoForkJoin.genruntimeconfig.cache
+C:\Users\leona\RiderProjects\GhibaudoLeonardoForkJoin\GhibaudoLeonardoForkJoin\obj\Debug\net8.0\ref\GhibaudoLeonardoForkJoin.dll
